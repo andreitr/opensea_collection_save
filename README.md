@@ -1,6 +1,7 @@
 # Download OpenSea Collection
 The ultimate right-click-save code that makes it easy to pull down entire OpenSea collections.
 
+![alt text](https://github.com/andreitr/opensea_collection_save/blob/main/images/cover.png?raw=true)
 
 ##### Step 1. Grab OpenSea collection identifier 
 ```
