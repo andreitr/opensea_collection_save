@@ -12,7 +12,7 @@ https://opensea.io/collection/cryptoflyz
 ##### Step 2. Pass it into the download script
 ```
 # From inside the project directory run the following
-python3 download.py cryptoflyz
+python3 download.py cryptoflyz OPENSEA_API_KEY
 ```
 
 #### Questions?
